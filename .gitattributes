@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 accident.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+nydata_041600.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc0416left.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc0417.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc0418.tar.gz filter=lfs diff=lfs merge=lfs -text
+sfall.tar.gz filter=lfs diff=lfs merge=lfs -text
+sydata_1.tar.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 8998ebc3692b88a68d6ab3f3e90040a31aabe34b
