@@ -1,1 +1,24 @@
+<<<<<<< HEAD
 gtfs.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+gtfs.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+siri.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+accident.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+nydata_041600.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc0416left.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc0417.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc0418.tar.gz filter=lfs diff=lfs merge=lfs -text
+sfall.tar.gz filter=lfs diff=lfs merge=lfs -text
+sydata_1.tar.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 8998ebc3692b88a68d6ab3f3e90040a31aabe34b
+gtfs.tar.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 672110cdcb4b7744982e6098a531acfcb16e5833
+>>>>>>> fe9ab74f81f5af8f7231d2dd031fc1c6e02320b2
+gtfs.tar.gz. filter=lfs diff=lfs merge=lfs -text
+>>>>>>> cfe43ac04c8dbda088e46f0938d9d0f55806240c
