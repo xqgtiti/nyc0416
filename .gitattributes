@@ -32,3 +32,4 @@ gtfs.tar.gz. filter=lfs diff=lfs merge=lfs -text
 nydata_1.tar.gz filter=lfs diff=lfs merge=lfs -text
 >>>>>>> d1f4ab40a82dc2be32e2da436ec986490892d823
 nydata_0418.tar.gz filter=lfs diff=lfs merge=lfs -text
+nydata_0419.tar.gz filter=lfs diff=lfs merge=lfs -text
