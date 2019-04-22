@@ -1,0 +1,4 @@
+accident.tar.gz filter=lfs diff=lfs merge=lfs -text
+gtfs.tar.gz filter=lfs diff=lfs merge=lfs -text
+service.tar.gz filter=lfs diff=lfs merge=lfs -text
+siri.tar.gz filter=lfs diff=lfs merge=lfs -text
