@@ -64,3 +64,4 @@ nyc.tar.gz filter=lfs diff=lfs merge=lfs -text
 >>>>>>> 05317339ee38a4818adc9ecb7031a88bfe0ad2c5
 >>>>>>> cfc427942d8fbf76cfb8e04d3af7be43a0bec583
 vehicle.tar.gz filter=lfs diff=lfs merge=lfs -text
+trip.tar.gz filter=lfs diff=lfs merge=lfs -text
