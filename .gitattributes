@@ -1,1 +1,61 @@
+<<<<<<< HEAD
 sfdata_1.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+incident.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+sfo.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+accident.tar.gz filter=lfs diff=lfs merge=lfs -text
+gtfs.tar.gz filter=lfs diff=lfs merge=lfs -text
+service.tar.gz filter=lfs diff=lfs merge=lfs -text
+siri.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+sfo.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+sfdata_1.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+sfdata_1.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+gtfs.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+gtfs.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+siri.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+<<<<<<< HEAD
+accident.tar.gz filter=lfs diff=lfs merge=lfs -text
+=======
+nydata_041600.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc0416left.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc0417.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc0418.tar.gz filter=lfs diff=lfs merge=lfs -text
+sfall.tar.gz filter=lfs diff=lfs merge=lfs -text
+sydata_1.tar.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 8998ebc3692b88a68d6ab3f3e90040a31aabe34b
+gtfs.tar.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> 672110cdcb4b7744982e6098a531acfcb16e5833
+>>>>>>> fe9ab74f81f5af8f7231d2dd031fc1c6e02320b2
+gtfs.tar.gz. filter=lfs diff=lfs merge=lfs -text
+>>>>>>> cfe43ac04c8dbda088e46f0938d9d0f55806240c
+>>>>>>> f1a6ad354f0515d8b462734ab2c2c1e23359b677
+nydata_1.tar.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> d1f4ab40a82dc2be32e2da436ec986490892d823
+nydata_0418.tar.gz filter=lfs diff=lfs merge=lfs -text
+nydata_0419.tar.gz filter=lfs diff=lfs merge=lfs -text
+nydata_20_21.tar.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> b37da34ca12e01d56168aba1353541df5aba9402
+sydney.tar.gz filter=lfs diff=lfs merge=lfs -text
+nyc.tar.gz filter=lfs diff=lfs merge=lfs -text
+>>>>>>> bcfea6e6d4c1a6e4acd64c70d39c619d26f95695
+>>>>>>> 35b8f8dde0452cd598702c0f43d39e70dde17b63
+>>>>>>> 80048335446f3d360dea3e9e342ad77b54b08d11
+>>>>>>> 05317339ee38a4818adc9ecb7031a88bfe0ad2c5
