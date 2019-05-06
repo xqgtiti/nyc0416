@@ -86,3 +86,4 @@ traffic.tar.gz filter=lfs diff=lfs merge=lfs -text
 siri.tat.gz filter=lfs diff=lfs merge=lfs -text
 nydata_0502_03.tar.gz filter=lfs diff=lfs merge=lfs -text
 trip_0503.tar.gz filter=lfs diff=lfs merge=lfs -text
+stop.tar.gz filter=lfs diff=lfs merge=lfs -text
