@@ -89,3 +89,4 @@ trip_0503.tar.gz filter=lfs diff=lfs merge=lfs -text
 stop.tar.gz filter=lfs diff=lfs merge=lfs -text
 nydata_0506.tar.gz filter=lfs diff=lfs merge=lfs -text
 nydata_0509.tar.gz filter=lfs diff=lfs merge=lfs -text
+stop_0512.tar.gz filter=lfs diff=lfs merge=lfs -text
